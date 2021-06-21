@@ -27,6 +27,7 @@ class Customer
         puts "Number of Customers #@@no_of_customers"
         puts "Value of first and second constant is #{VAR1} and #{VAR2}"
         puts "Multiplication Value: #{24*60*60}"
+        puts "Hello World"
     end
 end
 
