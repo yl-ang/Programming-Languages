@@ -27,12 +27,21 @@ class Customer
         puts "Number of Customers #@@no_of_customers"
         puts "Value of first and second constant is #{VAR1} and #{VAR2}"
         puts "Multiplication Value: #{24*60*60}"
-        puts "Hello World"
+        puts "Hello World\n"
+        puts "\n"
     end
 end
 
 # Object creation
+puts("Basic Obbject Creation")
 cust1 = Customer.new("1", "John", "Wisdom Apartments, Ludhiya")
 cust2 = Customer.new("2", "Poul", "New Empire road, Khandala")
-cust1.display_details
+# cust1.display_details
 cust2.display_details
+
+# Arrays
+puts("Array section:\n")
+ary = ["item0", 2, 3.0, "This is a string\n", "last element"]
+ary.each do |i|
+    puts i
+end
