@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\ASUS\source\repos\C_PROJECT_Tutorial\C_PROJECT_Tutorial\Source.c(237,15): warning C4002: too many arguments for function-like macro invocation 'max'
+  C_PROJECT_Tutorial.vcxproj -> C:\Users\ASUS\source\repos\C_PROJECT_Tutorial\x64\Debug\C_PROJECT_Tutorial.exe
