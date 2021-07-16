@@ -90,8 +90,9 @@ int main()
 	scanf_s("%lf", &num2);
 
 	printf("Answer: %d", num1 + num2);
-
+	printf("Answer: %d", num1 + num2);
 	return 0;
+
 
 }
 
